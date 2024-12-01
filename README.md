@@ -64,6 +64,7 @@ The final output is saved in `influencers_summary.xlsx`, containing:
 - **Average Engagement**: Engagement score based on appearance per frame.
 - **Video URLs**: List of video URLs where the influencer was detected.
 - **Rank**: Rank based on average engagement.
+- **Output_1 and Output_2**: are the tables which show the top 10 influencers with their average performance.
 
 ---
 
